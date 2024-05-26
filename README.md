@@ -3,6 +3,11 @@
 Ariouli is a software and hardware composition tailored to providing to our pets company when we are away from home.
 It supports both autonomous and remote control versions.
 
+
+https://github.com/npan1990/ariouli/assets/1937691/9fd6dd85-2844-4cd8-b958-eea16a62ca13
+
+
+
 It supports:
 
 1. Infrared Camera
